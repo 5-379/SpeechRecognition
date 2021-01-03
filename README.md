@@ -21,9 +21,6 @@
 - [参考文献](#参考文献)
 
 
-
-
-
 ## 对课题的理解
 
 ### 总体思路
@@ -53,6 +50,13 @@
 目前互联网上关于中文语言识别的开源数据集十分丰富，有的数据集包括了各种各样的语料库，但是选择的时候必须要注意基于应用场景去选择。例如，若是医疗诊断语音助手往往选择医疗领域的语料库。
 
 具体到该项目，暂时选择普通人平时说话场景下的语料库。
+
+* **清华大学THCHS30中文语音数据集**
+
+  data_thchs30.tgz [OpenSLR国内镜像](<http://cn-mirror.openslr.org/resources/18/data_thchs30.tgz>) [OpenSLR国外镜像](<http://www.openslr.org/resources/18/data_thchs30.tgz>)
+* **Free ST Chinese Mandarin Corpus** 
+
+  ST-CMDS-20170001_1-OS.tar.gz [OpenSLR国内镜像](<http://cn-mirror.openslr.org/resources/38/ST-CMDS-20170001_1-OS.tar.gz>) [OpenSLR国外镜像](<http://www.openslr.org/resources/38/ST-CMDS-20170001_1-OS.tar.gz>)
 
 ### 声学模型
 
